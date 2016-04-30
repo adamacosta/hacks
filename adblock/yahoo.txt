@@ -1,0 +1,5 @@
+! I love yahoo sports, but not the videos that automatically play and 
+! destroy the experience of someone who likes to open multiple tabs 
+! to read later
+autoplay=true
+yahoo.com##.mode-cinematron
