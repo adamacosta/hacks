@@ -1,5 +1,5 @@
-! I love yahoo sports, but not the videos that automatically play and 
-! destroy the experience of someone who likes to open multiple tabs 
-! to read later
-autoplay=true
+! Gets rid of those autoplay video wrapups that destroy the experience of
+! anyone who likes to open multiple tabs to read later
+yahoo.com##autoplay=true
+yahoo.com##div.js-applet
 yahoo.com##.mode-cinematron

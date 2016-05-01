@@ -1,0 +1,7 @@
+! This gets rid of everything annoying on the right side of the page
+! Might need to write a separate Chrome extension to make the content
+! column bigger, as this leaves a lot of wasted space and shows you
+! how bloated and terrible the Facebook UI really is
+facebook.com##div#rightCol
+facebook.com##div.fbChatSideBar
+facebook.com##div.uiToggleFlyout
