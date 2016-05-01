@@ -4,4 +4,5 @@
 ! how bloated and terrible the Facebook UI really is
 facebook.com##div#rightCol
 facebook.com##div.fbChatSideBar
-facebook.com##div.uiToggleFlyout
+facebook.com##div.dbChatSideBarBody
+facebook.com##div#fbDockChatBuddylistNub
